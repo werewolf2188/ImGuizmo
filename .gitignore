@@ -3,3 +3,5 @@ build/
 ImGuizmo.xcodeproj/project.pbxproj
 ImGuizmo.xcodeproj/xcuserdata/vn50tzy.xcuserdatad/xcschemes/xcschememanagement.plist
 bin
+ImGuizmo.vcxproj
+bin-int/
